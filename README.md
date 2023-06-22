@@ -1,2 +1,2 @@
 # LojaMobile-React
-React-Native, Node.js e Javascript
+React-Native e Node.js
